@@ -32,7 +32,9 @@ of it.
    :maxdepth: 2
    :caption: Contents:
 
-   hobbies
+   history
+   old_home_consoles
+   handheld_consoles
 
 
 Indices and tables
