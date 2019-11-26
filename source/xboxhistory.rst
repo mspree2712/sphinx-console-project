@@ -48,3 +48,11 @@ eighth generation of video game consoles.
 .. image:: xbox-one.jpg
     :width: 50%
 source: https://assets.vg247.com/current//2019/11/xbox-one.jpg
+
+   history
+   old_home_consoles
+   handheld_consoles
+   xboxhistory
+   xbox
+   xbox360
+   xboxone
