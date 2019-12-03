@@ -36,6 +36,10 @@ of it.
    history
    new_home_consoles
    old_home_consoles
+   xbox
+   xbox360
+   xboxhistory
+   xboxone
 
 
 Indices and tables
