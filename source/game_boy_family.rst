@@ -1,9 +1,5 @@
-Handheld Consoles
-=================
-Nintendo played a huge part in revolutionizing the portable, hand-held console.
-
-Game Boy Family (1989-2003
-------------------------
+Game Boy Family (1989-2003)
+===========================
 The Nintendo Game Boy changed the way people looked at a portable or hand-held
 gaming device(s). The only company to attempt prior, was the Milton Bradley
 Company with the Microvision, the first handheld game console. This did not
