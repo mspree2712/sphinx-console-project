@@ -19,6 +19,10 @@ Console Web Dev Project
    xbox360
    xboxhistory
    xboxone
+   atari
+   coleco
+   magnavox
+   sega
 
 
 Indices and tables
