@@ -19,9 +19,10 @@ The original Xbox was released on November 15,
 2001, in North America, February 22, 2002,in
 Japan, and March 14, 2002, in Australia and Europe.
 
-.. image:: xbox.jpg
+.. figure:: xbox.jpg
     :width: 50%
-*source:* Xbox [#f1]_
+
+    *source:* Xbox [#f1]_
 
 Xbox 360
 --------

@@ -7,9 +7,10 @@ Nintendo's Wii U and Switch as part of the
 eighth generation of video game consoles.
 
 
-.. image:: xbox-one.jpg
+.. figure:: xbox-one.jpg
     :width: 50%
-*source:* Xbox one [#f1]_
+
+    *source:* Xbox one [#f1]_
 
 
 Xbox one Features

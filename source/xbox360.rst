@@ -6,9 +6,10 @@ PlayStation 3 and Nintendo's Wii as part
 of the seventh generation of video game consoles.
 
 
-.. image:: xbox360.jpg
+.. figure:: xbox360.jpg
     :width: 30%
-*source:* Xbox 360 [#f1]_
+
+    *source:* Xbox 360 [#f1]_
 
 Features Model S
 ~~~~~~~~~~~~~~~~

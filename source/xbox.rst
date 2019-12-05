@@ -4,11 +4,11 @@ The original Xbox was released on November 15,
 2001, in North America, February 22, 2002,in
 Japan, and March 14, 2002, in Australia and Europe.
 
-.. image:: xbox.jpg
+.. figure:: xbox.jpg
     :width: 50%
-*source:* Xbox [#f1]_
 
-[1]	“Inez Milholland”. Vassar College Encyclopedia. 2006. Retrieved 2012-07-21.
+    *source:* Xbox [#f1]_
+
 Features
 ~~~~~~~~
 
