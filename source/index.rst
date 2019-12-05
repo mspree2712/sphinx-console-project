@@ -13,7 +13,7 @@ Console Web Dev Project
 
    game_boy_family
    history
-   new_home_consoles
+   recent_home_consoles
    old_home_consoles
    xbox
    xbox360
