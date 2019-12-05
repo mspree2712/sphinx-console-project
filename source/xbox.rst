@@ -34,13 +34,7 @@ Fun Facts
 * It was discontinued in 2006 after selling over 24 million consoles
   worldwide.
 
-   history
-   old_home_consoles
-   handheld_consoles
-   xboxhistory
-   xbox
-   xbox360
-   xboxone
+
 
 .. rubric:: Footnotes
 

@@ -49,13 +49,6 @@ eighth generation of video game consoles.
     :width: 50%
 *source:* Xbox [#f3]_
 
-   history
-   old_home_consoles
-   handheld_consoles
-   xboxhistory
-   xbox
-   xbox360
-   xboxone
 
 
 .. rubric:: Footnotes

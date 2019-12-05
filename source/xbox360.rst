@@ -40,13 +40,6 @@ Fun Facts
   although only two are available to buy in shops now,
   which are the Xbox 360 Arcade, and Xbox 360 Elite
 
-   history
-   old_home_consoles
-   handheld_consoles
-   xboxhistory
-   xbox
-   xbox360
-   xboxone
 
 .. rubric:: Footnotes
 

@@ -48,15 +48,6 @@ Xbox one Fun facts
 
 
 
-   history
-   old_home_consoles
-   handheld_consoles
-   xboxhistory
-   xbox
-   xbox360
-   xboxone
-
-
 .. rubric:: Footnotes
 
 .. [#f1] https://assets.vg247.com/current//2019/11/xbox-one.jpg. Assets. 2019. Retrieved 2019-12-05.
