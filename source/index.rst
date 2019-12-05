@@ -35,6 +35,10 @@ of it.
    history
    old_home_consoles
    handheld_consoles
+   xboxhistory
+   xbox
+   xbox360
+   xboxone
 
 
 Indices and tables
