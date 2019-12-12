@@ -2,7 +2,7 @@
 
 Magnavox
 ========
-.. table:: Notable Consoles
+.. table:: **Notable Consoles**
 
     ==================== =======================
      Name                 North America Release
@@ -35,8 +35,23 @@ One of the 28 games released for the Odyssey was a ping pong game, which inspire
 Odyssey\ :sup:`2`\
 ******************
 
+.. figure:: magnavox_odyssey_2.png
+    :width: 50%
+
+    Magnavox Odyssey\ :sup:`2`\  [#f2]_
+
+Also known as the Philips Odyssey\ :sup:`2`\, the Magnavox Odyssey\ :sup:`2`\  is a second generation home video game
+console that released in 1978. The Odyssey\ :sup:`2`\  changed the original controller design of the Odyssey to the more
+standard joystick design of the 1970s and early 1980s.
+
+It performed better than the Odyssey, selling approximately two million units but
+performed worse than its competitors in the Atari 2600 and Intellivision. This was due, in part, to its lackluster
+graphics and lack of colors, although they were certainly an improvement on the Odyssey’s simple graphics. It was
+discontinued in 1984.
+
 .. rubric:: Footnotes
 
-.. [#f1] Amos, E. (2015). Retrieved from https://commons.wikimedia.org/wiki/File:Magnavox-Odyssey-Console-Set.png
-.. [#f2] Text of the second footnote.
-.. [#f3] Text of the third footnote.
+.. [#f1] Amos, E. (2015). Magnavox Odyssey Console Set. Retrieved from
+    https://commons.wikimedia.org/wiki/File:Magnavox-Odyssey-Console-Set.png.
+.. [#f2] Amos, E. (2011). Magnavox Odyssey 2 Console Set. Retrieved from
+    https://commons.wikimedia.org/wiki/File:Magnavox-Odyssey-2-Console-Set.png.
