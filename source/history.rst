@@ -21,4 +21,20 @@ This is where Nintendo truly began to sink their teeth into the video game indus
 They began by becoming a distributor of the Magnavox Odyssey, which eventually led
 them to develop their own hardware. The rest, as they say, is history.
 
+.. list-table:: Nintendo's Best Selling Consoles
 
+    * - Name
+      - Year of Release
+      - Units Sold
+    * - Nintendo DS
+      - 2004
+      - 142.02 million
+    * - Game Boy/Color
+      - 1989/1998
+      - 118.69 million
+    * - Wii
+      - 2006
+      - 101.63 million
+    * - Game Boy Advance
+      - 2001
+      - 81.51 million

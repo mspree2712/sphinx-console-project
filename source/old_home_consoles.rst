@@ -1,5 +1,7 @@
 Early Home Consoles
 ===================
+Nintendo Entertainment System
+-----------------------------
 Nintendo had a huge part in sparking the home console gaming market with the
 Nintendo Entertainment System, better known as the NES. The NES was released
 in 1983, shortly after what is known as the video game crash of 1983, which
@@ -14,6 +16,8 @@ give a jumpstart to the industry and dominated the market for a time. Many of
 Nintendo's most iconic franchises, such as The Legend of Zelda and Metroid,
 found their start on the NES.
 
+Super Nintendo Entertainment System
+-----------------------------------
 7 years past the creation of the NES and Nintendo does it again. In November 1990,
 Nintendo released the Super Nintendo Entertainment System, which most refer to as
 SNES or Super Nintendo. The SNES was a bit late to the 16-bit era, however, it
@@ -22,6 +26,8 @@ As with the NES, the Super Nintendo had its claim to fame with beginning entries
 into iconic franchises like Star Fox and Mega Man, while continuing lines its
 predecessor had started before.
 
+Nintendo 64 and GameCube
+------------------------
 Some other notable entries and ones most of our generation may start to recognize
 were the Nintendo 64, commonly called the N64, and the Nintendo GameCube. The N64
 was Nintendo's entry into the 64-bit world, and it pays homage to that in its

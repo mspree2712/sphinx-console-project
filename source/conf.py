@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Sample Project'
-copyright = '2019, Mason Spree'
-author = 'Mason Spree'
+project = 'Generational Consoles'
+copyright = '2019, Ahmed Musa, Mason Spree, Oleg Nochvay, Peyton McBurney'
+author = 'Ahmed Musa, Mason Spree, Oleg Nochvay, Peyton McBurney'
 
 
 # -- General configuration ---------------------------------------------------

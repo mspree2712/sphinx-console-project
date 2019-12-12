@@ -1,5 +1,7 @@
 Recent Home Consoles
 ====================
+Nintendo Wii
+------------
 Nintendo did not slow down after its early success. They decided to keep
 innovating. In 2006, Nintendo introduced the Wii. The Wii was revolutionary
 for consoles, as it introduced a handheld motion-controlled that was able to
@@ -11,6 +13,8 @@ made up for in unique gameplay and fun. The Wii, along with Nintendo's newest
 hand-held line, the DS, Nintendo become one of the biggest players in the gaming
 industry.
 
+Wii U
+-----
 With so much success, Nintendo continued forging on, eventually releasing the Wii U
 in November of 2012. They distinguished this console with a GamePad, which was a
 controller with a screen in the middle, which allowed for mobile play, within a
@@ -23,6 +27,8 @@ in graphics and gameplay, with a relatively non-existent game lineup at launch.
 Sales gradually grew as the consoles life developed, however, it never reached
 the level of impact that its predecessors achieved.
 
+Switch
+------
 Nintendo got back to the grindstone and decided to do what they do best. Creating
 an innovative solution that the world had never seen before. They did just that
 with their most recent console, the Nintendo Switch. Releasing in 2017, the Switch
@@ -31,15 +37,4 @@ in tablet form, with console-level graphics. For the first time, gamers were abl
 to take their favorite games on the go, and have it look beautiful. The Switch also
 built upon the foundations of the Wii, with two detachable controllers known as
 Joy-Cons, which had built-in motion sensors. The Switch outsold previous consoles
-like the Wii U, GameCube, and Nintendo 64 within the first two years of its launch.
-
-
-Nintendo got back to the grindstone, and decided to do what they do best. Create
-an innovative solution that the world had never seen before. They did just that
-with their most recent console, the Nintendo Switch. Releasing in 2017, the Switch
-is hybrid device, that can be docked and used as a home console, or taken on the go
-in tablet form, with console-level graphics. For the first time, gamers were able
-to take their favorite games on the go, and have it look beautiful. The Switch also
-built upon the foundations of the Wii, with two detatchable controllers known as
-Joy-Cons, which had built in motion sensors. The Switch outsold previous consoles
 like the Wii U, GameCube, and Nintendo 64 within the first two years of its launch.

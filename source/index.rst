@@ -1,4 +1,4 @@
-.. My Sample Project documentation master file, created by
+.. Consoles documentation master file, created by
    sphinx-quickstart on Tue Nov 19 15:00:57 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -23,6 +23,10 @@ Console Web Dev Project
    coleco
    magnavox
    sega
+   playstation
+   sonyhistory
+   ps_home_consoles
+   ps_handheld_consoles
 
 
 Indices and tables
